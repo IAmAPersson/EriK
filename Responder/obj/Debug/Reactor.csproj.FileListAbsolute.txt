@@ -1,0 +1,17 @@
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Responder.dll
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Responder.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Emotion.dll
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Emotion.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\obj\Debug\Reactor.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\obj\Debug\Responder.dll
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\obj\Debug\Responder.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\bin\Debug\Responder.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\bin\Debug\Responder.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\bin\Debug\Emotion.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\bin\Debug\Emotion.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\obj\Debug\Reactor.csprojResolveAssemblyReference.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\obj\Debug\Reactor.csproj.CoreCompileInputs.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\obj\Debug\Responder.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Responder\obj\Debug\Responder.pdb

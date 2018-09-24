@@ -1,0 +1,5 @@
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Responder.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\bin\Debug\Responder.pdb
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\obj\Debug\Responder.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\obj\Debug\Responder.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Responder\obj\Debug\Responder.csprojResolveAssemblyReference.cache
