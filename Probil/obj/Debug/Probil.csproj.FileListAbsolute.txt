@@ -1,0 +1,17 @@
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\bin\Debug\Probil.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\bin\Debug\Probil.pdb
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\bin\Debug\Emotion.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\bin\Debug\Emotion.pdb
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\obj\Debug\Probil.csprojResolveAssemblyReference.cache
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\obj\Debug\Probil.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\obj\Debug\Probil.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Probil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\bin\Debug\Probil.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\bin\Debug\Probil.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\bin\Debug\Emotion.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\bin\Debug\Emotion.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\obj\Debug\Probil.csprojResolveAssemblyReference.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\obj\Debug\Probil.csproj.CoreCompileInputs.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\obj\Debug\Probil.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Probil\obj\Debug\Probil.pdb
