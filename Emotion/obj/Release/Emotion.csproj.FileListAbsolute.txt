@@ -1,0 +1,17 @@
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\bin\Release\Emotion.dll
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\bin\Release\Emotion.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\obj\Release\Emotion.dll
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\obj\Release\Emotion.pdb
+C:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\obj\Release\Emotion.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\bin\Release\Emotion.dll
+C:\Users\Phillip\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\bin\Release\Emotion.pdb
+C:\Users\Phillip\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.csprojResolveAssemblyReference.cache
+C:\Users\Phillip\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.dll
+C:\Users\Phillip\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\bin\Release\Emotion.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\bin\Release\Emotion.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.csprojResolveAssemblyReference.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.csproj.CoreCompileInputs.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Release\Emotion.pdb

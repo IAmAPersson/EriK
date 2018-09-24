@@ -1,0 +1,11 @@
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\bin\Debug\Emotion.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\bin\Debug\Emotion.pdb
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\obj\Debug\Emotion.csprojResolveAssemblyReference.cache
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\obj\Debug\Emotion.dll
+c:\Users\Phillip\documents\visual studio 2015\Projects\EriK\Emotion\obj\Debug\Emotion.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\bin\Debug\Emotion.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\bin\Debug\Emotion.pdb
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Debug\Emotion.csprojResolveAssemblyReference.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Debug\Emotion.csproj.CoreCompileInputs.cache
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Debug\Emotion.dll
+C:\Users\iamap\OneDrive\Documents\Visual Studio 2017\Projects\EriK\Emotion\obj\Debug\Emotion.pdb
